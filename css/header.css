@@ -5,7 +5,6 @@
     margin: 0px;
     height: 100%;
     width: 100%;
-    position: ;
     z-index: 0;
 }
 
@@ -29,9 +28,6 @@
     .worked320 {
         display: block;
         width: 30%;
-        height:
-            /*15.5%*/
-        ;
         position: absolute;
         margin-top: 15%;
         margin-left: 35%
@@ -41,8 +37,6 @@
         margin: 0px;
         height: 100%;
         width: 100%;
-        /* 200%*/
-        position: ;
         z-index: 0;
     }
 
