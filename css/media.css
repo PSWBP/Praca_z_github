@@ -33,7 +33,6 @@
     }
 
     .button-a {
-        display: ;
         text-transform: uppercase;
         color: #ffffff;
         text-align: center;
@@ -77,9 +76,6 @@
     .worked320 {
         display: block;
         width: 30%;
-        height:
-            /*15.5%*/
-        ;
         position: absolute;
         margin-top: 15%;
         margin-left: 35%
@@ -87,10 +83,6 @@
 
     .title {
         margin: 0px;
-        height: ;
-        width: ;
-        /* 200%*/
-        position: ;
         z-index: 0;
     }
 
