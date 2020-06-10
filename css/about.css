@@ -16,7 +16,6 @@
     color: white;
     flex-basis: 40%;
 }
-
 .texttest h1 {
     font-size: 40pt;
     padding: 0;
@@ -27,7 +26,6 @@
 
 .texttest p {
     font-size: 11pt;
-
     padding: 0;
     margin: 0;
     opacity: 1;
@@ -43,7 +41,6 @@
     text-transform: uppercase;
 
 }
-
 .phototest {
     display: flex;
     flex-basis: 50%;
@@ -107,6 +104,9 @@
 
     .texttest {
         color: white;
+        
+    }
+    .texttest{
         flex-basis: 40%;
     }
 
