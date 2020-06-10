@@ -112,3 +112,6 @@ function prev2() {
     }
     slide.src = a2[num2];
 }
+
+//Prosze Pana postawic 3 nam wszyscym))))
+//Dziekuje bardzo))
